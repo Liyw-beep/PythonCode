@@ -3,7 +3,7 @@
 """
 @product:PyCharm
 @project:PythonCode_Study
-@file:day1224Test.py
+@file:Basic.py
 @AUTHOR:DELL - 李彦文
-@time:2020/12/24
+@time:2020/12/25
 """
